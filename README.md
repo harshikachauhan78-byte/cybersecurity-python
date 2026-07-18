@@ -1,2 +1,5 @@
-# cybersecurity-python
-A collection of beginner-friendly cybersecurity projects built with Python.
+🛡️ Cybersecurity Projects in Python
+ 📊 Log Analyzer
+🔐 Caesar Cipher.py
+🔒 File Hash Generator.py
+🔑 Password Strength Checker.py
